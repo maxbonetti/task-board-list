@@ -2,6 +2,14 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
+/* Dark Theme Styles */
+
+body.dark-theme {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  background-color: #222;
+  color: #fff;
+}
 
 .swim-lanes {
   min-height: 60vh;
